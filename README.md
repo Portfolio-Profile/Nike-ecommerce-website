@@ -23,22 +23,22 @@ A fully responsive and visually appealing **Nike eCommerce product page**, built
 ## 🖼️ Screenshots
 
 ## 🔹 Navbar + Search
-![Navbar](./screenshots/navbar.png)
+![Navbar](screenshots/navbar.png)
 
 ## 🔹 Product Slider
-![Slider](./screenshots/slider.png)
+![Slider](screenshots/slider.png)
 
 ## 🔹 Product Detail + Buy Now Modal
-![Product](./screenshots/product.png)
+![Product](screenshots/product.png)
 
 ## 🔹 Features Section
-![Features](./screenshots/features.png)
+![Features](screenshots/features.png)
 
 ## 🔹 Image Gallery
-![Gallery](./screenshots/gallery.png)
+![Gallery](screenshots/gallery.png)
 
 ## 🔹 New Season Promotion
-![New Season](./screenshots/newseason.png)
+![New Season](screenshots/newseason.png)
 
 
 
